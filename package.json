@@ -1,0 +1,16 @@
+{
+  "name": "demo_nodejs",
+  "version": "1.0.0",
+  "description": "nodjs项目",
+  "author": "shihua.he <330967496@qq.com>",
+  "private": true,
+  "repository ": "git",
+  "scripts": {
+    "app": "node app.js",
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {}
+}
