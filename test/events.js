@@ -1,4 +1,4 @@
-//简易API：http://www.runoob.com/nodejs/nodejs-event.html
+//API：http://www.runoob.com/nodejs/nodejs-event.html
 var events = require('events');//事件模块
 var emitter = new events.EventEmitter();//事件发射器（tm其实就是执行器）
 
